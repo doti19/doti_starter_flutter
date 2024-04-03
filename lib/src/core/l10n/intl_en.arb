@@ -1,0 +1,111 @@
+{
+ 
+  "@@locale": "en",
+  "appTitle": "flutter_bloc_app_template",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "itemsTitle": "Sample Items",
+  "@itemsTitle": {
+    "description": "The title of the sample items"
+  },
+  "messagesTitle": "Messages",
+  "@messagesTitle": {
+    "description": "The title of the messages screen"
+  },
+  "itemTitle": "Sample Item {id}",
+  "@itemTitle": {
+    "description": "The title of the item"
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "The title of the settings"
+  },
+  "themeTitle": "Theme",
+  "@themeTitle": {},
+  "systemThemeTitle": "System Theme",
+  "@systemThemeTitle": {},
+  "lightThemeTitle": "Light Theme",
+  "@lightThemeTitle": {},
+  "darkThemeTitle": "Dark Theme",
+  "@darkThemeTitle": {},
+  "yellowThemeTitle": "Yellow Theme",
+  "@yellowThemeTitle": {},
+  "experimentalThemeTitle": "Experimental Theme",
+  "@experimentalThemeTitle": {},
+  "itemDetailsTitle": "Item Details",
+  "@itemDetailsTitle": {
+    "description": "The title of the Item Details screen"
+  },
+  "error": "Error",
+  "@error": {},
+  "emptyList": "Empty list",
+  "@emptyList": {},
+  "tabHome": "Home",
+  "@tabHome": {},
+  "tabSettings": "Settings",
+  "@tabSettings": {},
+  "newsScreen": "News",
+  "@newsScreen": {},
+  "disabledButtonTitle": "Disabled",
+  "@disabledButtonTitle": {},
+  "disabledRoundedButtonTitle": "Disabled Rounded",
+  "@disabledRoundedButtonTitle": {},
+  "disabledWithIconButtonTitle": "Disabled With Icon",
+  "@disabledWithIconButtonTitle": {},
+  "enabledButtonTitle": "Enabled",
+  "@enabledButtonTitle": {},
+  "borderRadiusButtonTitle": "BorderRadius",
+  "@borderRadiusButtonTitle": {},
+  "borderSideButtonTitle": "BorderSide",
+  "@borderSideButtonTitle": {},
+  "iconButtonTitle": "With Icon",
+  "@iconButtonTitle": {},
+  "iconAndPaddingButtonTitle": "With Icon Padding",
+  "@iconAndPaddingButtonTitle": {},
+  "transparentButtonTitle": "Transparent",
+  "@transparentButtonTitle": {},
+
+  "storageError": "Oops, there's a problem accessing local storage.",
+  "userError": "some error with the client, please check again",
+  "home": "Home",
+  "noConnectionError": "Slow or no network connection. Please check your internet settings.",
+  "password": "Password",
+  "serverError": "Server error occured. Please try again later.",
+  "shortPasswordVerificationText": "Password must have minimum of 6 characters",
+  "signIn": "Sign In",
+  "register": "Register",
+  "forgotPassword": "Forgot Password?",
+  "rememberPassword": "Remember Password",
+  "signInStatusError": "Failed getting sign in status",
+  "signOut": "Sign Out",
+  "orLoginWith": "Or Login With",
+  "validEmailVerificationText": "Please input a valid email address",
+  "thankYouForRegistering": "Thank You For Registering With Us.",
+  "sentYouCode" : "We've Sent you a Code, Please Enter to proceed",
+  "validOTPText": "Please input a valid OTP",
+  "verifyOTP": "Verify OTP",
+  "welcomeUser": "Welcome {userName}",
+
+  "validFirstNameText": "Please Enter a valid first Name",
+  "validLastNameText": "Please Enter a valid last Name",
+  "validGenderText": "Please Enter a valid Gender Value",
+  "validRoleText": "Please Enter a valid Role Value",
+  "validPhoneNumberText": "Please Enter a valid Phone number",
+  "validBirthDateText": "please Enter a valid Date",
+  "validPlaceOfBirthText": "please Enter a valid place of birth",
+  "validPasswordText": "please Enter a valid Password",
+  "validStreetAddressText": "please Enter a valid StreetAddress",
+  "validStreetAddress2Text": "please Enter a valid StreetAddress2",
+  "validCityText": "please Enter a valid City",
+  "validZipCodeText": "please Enter a valid zip code",
+  "validStateText": "please Enter a valid State",
+  "validCountryText": "Please Enter a valid Country Name",
+
+
+  "@welcomeUser": {
+    "placeholders": {
+      "userName": {}
+    }
+  }
+}

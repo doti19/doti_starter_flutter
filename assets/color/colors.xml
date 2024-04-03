@@ -1,0 +1,40 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+    <color name="primary">#fff2851c</color>
+    <color name="backgroundlight">#fffff8f4</color>
+    <color name="backgrounddark">#ff3c3b3d</color>
+    <color name="navigationlight">#ffffffff</color>
+    <color name="navigationdark">#ff262626</color>
+    <color name="textlight">#ff000000</color>
+    <color name="textdark">#ffd8d8d8</color>
+    <color name="navtextlightinactive">#ff857f7f</color>
+    <color name="secondary">#ff2d63e3</color>
+    <color name="success">#ff59de91</color>
+    <color name="error">#ffff504f</color>
+    <color name="learnactivecard">#fffcb974</color>
+    <color name="learninactivecard">#ff837568</color>
+    <color name="progressballs">#ffc4c4c4</color>
+    <!-- <color name="primary_experimental">#005b9f</color>
+    <color name="accent_experimental">#0288d1</color>
+    <color name="background_experimental">#b2ebf2</color>
+
+    <color name="primary_yellow">#fbc02d</color>
+    <color name="accent_yellow">#c49000</color>
+    <color name="background_yellow">#fffde7</color>
+
+    <color name="primary_light">#1E1E1E</color>
+    <color name="accent_light">#1E5185</color>
+    <color name="background_light">#ffffff</color>
+    <color name="divider_light">#c62828</color>
+
+    <color name="primary_dark">#102027</color>
+    <color name="accent_dark">#6a4f4b</color>
+    <color name="background_dark">#1b1b1b</color>
+    <color name="canvas_dark">#242424</color>
+    <color name="card_dark">#272727</color>
+    <color name="divider_dark">#545454</color>
+
+    <color name="attachment_border_color">#B3B2B3</color>
+    <color name="attachment_text_color">#5D5C5D</color>
+    <color name="bottom_sheet_top_icon_color">#e0e0e0</color> -->
+</resources>
